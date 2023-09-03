@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: "Inter";
-  src: url("/fonts/Inter-VariableFont_slnt.wght.ttf");
+  src: url("/public/fonts/Inter-VariableFont_slnt\,wght.ttf");
 }
 
 @font-face {
@@ -14,7 +14,7 @@
 }
 
 @font-face {
-  font-family: "Inter SemiBold";
+  font-family: "Inter";
   src: url("/fonts/static/Inter-SemiBold.ttf");
 }
 
