@@ -3,10 +3,6 @@
 @tailwind utilities;
 
 
-@font-face {
-  font-family: "Inter";
-  src: url("/public/fonts/Inter-VariableFont_slnt\,wght.ttf");
-}
 
 @font-face {
   font-family: "Inter Regular";
